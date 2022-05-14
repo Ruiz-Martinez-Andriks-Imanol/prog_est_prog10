@@ -1,9 +1,9 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 17/02/2022
+/* Autor: Andriks Imanol Ruiz M谩rtinez, Realizado: 17/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada 
+Materia: Programaci贸n Estructrada 
 Ciclo: 01/2022
 
-Este es un programa de condicionales con operadores l骻icos en Lenguaje C de la materia de Programaci髇 Estructurada<br>
+Este es un programa de condicionales con operadores l贸gicos en Lenguaje C de la materia de Programaci贸n Estructurada<br>
 Muestra el uso de:
   
     -Variables enteras.
@@ -11,11 +11,11 @@ Muestra el uso de:
     -scanf.
     -El uso de include para las librerias.
     -condicional if-else-.
-	-Comentarios para la doumentaci髇 interna del programa.
+	-Comentarios para la documentaci贸n interna del programa.
 */
 #include<stdio.h>
 int main() {
-	//Declaraci髇
+	//Declaraci贸n
 	int a,b,c;
 	//Procesos
 	printf("Introduce el valor de a: ");
@@ -24,7 +24,7 @@ int main() {
 	scanf("%d", &b);
 	printf("Introduce el valor de c: ");
 	scanf("%d", &c);
-	if(a>b&&a>c){ //Condicionales con operador l骻ico
+	if(a>b&&a>c){ //Condicionales con operador l贸gico
 		printf("a es el mayor");
 	}
 	else if(b>a && b>c){
