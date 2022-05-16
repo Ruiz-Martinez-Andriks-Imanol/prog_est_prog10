@@ -19,7 +19,7 @@ Muestra el uso de:
 <b>Objetivo:</b> Descubrir cual de los tres números introducidos es mayor que el otro.
 <br>
 <br>
-<p>Breve descripción:
+<p><b>Breve descripción:</b>
 Este programa pide que usemos tres números y que chequemos cual es el mayor. En este programa usaremos tanto el “else if” como el “&&” y con eso tendremos que indicar cuando los valores serán iguales y que valores serán mayores.
 <br>
 </p>
