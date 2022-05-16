@@ -1,8 +1,8 @@
 # prog_est_prog10
-Autor: Andriks Imanol Ruiz Martínez, Fecha: 17/02/2022 <br>
-Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructurada <br>
-Ciclo: 01/2022</p>
+<b>Autor:</b> Andriks Imanol Ruiz Martínez, Fecha: 17/02/2022 <br>
+<b>Escuela:</b> Universidad del Valle de Mexico Campus Villahermosa <br>
+<b>Materia:</b> Programación Estructurada <br>
+<b>Ciclo:</b> 01/2022</p>
 <br>
 <p>Este es un programa de condicionales con operadores lógicos en Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
@@ -16,7 +16,7 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Descubrir cual de los tres números introducidos es mayor que el otro.
+<b>Objetivo:</b> Descubrir cual de los tres números introducidos es mayor que el otro.
 <br>
 <br>
 <p>Breve descripción:
